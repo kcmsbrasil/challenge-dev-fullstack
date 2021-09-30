@@ -1,7 +1,7 @@
 # Challenge - Developer Full Stack
 
 Woow! Parabéns em chegar nesta etapa do processo!
-Nossa intenção é entender seu conhecimento técnico, para isso temos este desafio.
+Nossa intenção é entender seu conhecimento técnico, para isso temos este desafio. O desafio é para todos os níveis!
 
 
 ## Orientações
@@ -27,12 +27,14 @@ Teremos que utilizar tecnologia .Net com a linguagem C#
 ### Avaliaremos
 
 * Se o código é limpo, claro e de fácil manutenção;
+* 
 * Criatividade;
 
 ### Insights
 
 * Preferimos que utilize database NOSQL como MongoDB ou outro de sua preferência;
 * Existem serviços gratuitos que hospedam databases NOSQL gratuitamente em espaço físico limitado, mas suficiente para o teste);
+* Teste unitários são bem vindos mas são opcionais;
 * Frameworks podem ser utilizados;
 
 ### O que deve ser entregue?
